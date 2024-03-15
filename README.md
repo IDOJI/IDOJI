@@ -13,4 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+💎 Statistics 💎 
+🧩 Bayesian Statistics
+🧩 Functional Data Analysis (e.g. Hilbert Space)
 -->
+
+
+💎 My Interest 💎
+🦠 Gut Microbiome
+🧬 SNP
+🧠 Neuroimaging: RS-fMRI (FC, ReHo, ALFF, DC, etc.)
+
+
+
+
