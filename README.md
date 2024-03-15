@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 
 
 💎 My Interest 💎
+
 🦠 Gut Microbiome
+
 🧬 SNP
+
 🧠 Neuroimaging: RS-fMRI (FC, ReHo, ALFF, DC, etc.)
 
 
