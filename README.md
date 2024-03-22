@@ -25,7 +25,17 @@ Here are some ideas to get you started:
 
 🧬 SNP
 
-🧠 Neuroimaging: RS-fMRI (FC, ReHo, ALFF, DC, etc.)
+🧠 Neuroimaging(Brain signals): RS-fMRI (FC, ReHo, ALFF, DC, etc.), EEG
+
+
+💎 Statistics 💎
+Time-series Data Analysis
+Functional Data Analysis
+Categorical Data Analysis
+Multivariate Data Analysis
+Bayesian Approach
+
+
 
 
 
