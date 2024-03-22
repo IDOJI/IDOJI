@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 🧠 Neuroimaging(Brain signals): RS-fMRI (FC, ReHo, ALFF, DC, etc.), EEG
 
+🤖 Brain Interface Computing
+
 
 💎 Statistics 💎
 
