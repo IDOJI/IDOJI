@@ -29,10 +29,15 @@ Here are some ideas to get you started:
 
 
 💎 Statistics 💎
+
 Time-series Data Analysis
+
 Functional Data Analysis
+
 Categorical Data Analysis
+
 Multivariate Data Analysis
+
 Bayesian Approach
 
 
