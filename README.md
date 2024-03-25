@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 🧬 SNP
 
 🧠 Neuroimaging(Brain signals): RS-fMRI (FC, ReHo, ALFF, DC, etc.), EEG
+Neural Computation
+
 
 🤖 Brain Interface Computing
 
