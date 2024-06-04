@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi
 <!--
 **IDOJI/IDOJI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +15,6 @@ Here are some ideas to get you started:
 💎 Statistics 💎 
 🧩 Bayesian Statistics
 🧩 Functional Data Analysis (e.g. Hilbert Space)
--->
-
-
 💎 My Interest 💎
 
 🦠 Gut Microbiome
@@ -31,20 +27,7 @@ Neural Computation
 
 🤖 Brain Interface Computing
 
-
-💎 Statistics 💎
-
-Time-series Data Analysis
-
-Functional Data Analysis
-
-Categorical Data Analysis
-
-Multivariate Data Analysis
-
-Bayesian Approach
-
-
+-->
 
 
 
