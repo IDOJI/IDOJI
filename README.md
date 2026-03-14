@@ -1,35 +1,25 @@
-### Hi
+### Hi, I'm Ido Ji 👋
 
-<!--
-**IDOJI/IDOJI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a statistics-trained researcher working on clinical and neuroimaging data, with a growing focus on biostatistics for prognosis, survival analysis, and evidence generation.
 
-Here are some ideas to get you started:
+#### Current focus
+- Time-to-event modeling in psychiatric/clinical datasets
+- Neuroimaging as biomarker / prognostic evidence
+- Clinical trials, epidemiology, and causal inference
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-💎 Statistics 💎 
-🧩 Bayesian Statistics
-🧩 Functional Data Analysis (e.g. Hilbert Space)
-💎 My Interest 💎
+#### Selected links
+- 📄 CV: [link]
+- 🧪 Selected Projects: [link]
+- 📚 Selected Self-Study / Coursera Notes: [link]
+- 📝 Research interests: [link or short list]
 
-🦠 Gut Microbiome
-
-🧬 SNP
-
-🧠 Neuroimaging(Brain signals): RS-fMRI (FC, ReHo, ALFF, DC, etc.), EEG
-Neural Computation
-
-
-🤖 Brain Interface Computing
-
--->
-
-
-
-
+#### Interests
+- Statistics
+  - Bayesian Statistics
+  - Survival Analysis
+  - Causal Inference
+  - Functional Data Analysis
+- Biomedical Applications
+  - Neuroimaging
+  - Psychiatry
+  - SNP / Biomedical Data
