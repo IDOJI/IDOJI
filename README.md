@@ -13,5 +13,3 @@
   - Psychiatry
   - SNP / Biomedical Data
 
-
-## 📜 Coursera
