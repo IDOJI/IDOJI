@@ -7,6 +7,7 @@
   - Survival Analysis
   - Causal Inference
   - Functional Data Analysis
+  - High-dimensional data
 - Biomedical Applications
   - Neuroimaging
   - Psychiatry
