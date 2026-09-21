@@ -1,4 +1,3 @@
-```text
 ### 👋 Hi, I'm Ido Ji
 
 I'm interested in developing statistical methodologies and applying them to biomedical data. 📊🧠
@@ -39,4 +38,3 @@ Automates and organizes backups of databases and personal data across external d
 Utilities and automations for managing my Obsidian vaults, including backups, maintenance, and repetitive knowledge-management tasks.
 
 [🔗 Repository →](REPO_URL)
-```
