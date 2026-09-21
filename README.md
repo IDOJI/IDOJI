@@ -13,8 +13,8 @@ I'm interested in developing statistical methodologies and applying them to biom
 
 **🧬 Biomedical Applications**
 - 🧠 Neuroimaging
-  - 🧩 Psychiatry
-  - 🧠 Alzheimer's Disease
+  - 🧩 fMRI
+  - 🧠 T1 MRI
 - 🧬 Statistical Genetics / SNP Data
 
 ### 🛠️ Personal Productivity Tools
