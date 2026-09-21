@@ -1,37 +1,42 @@
-### Hi, I'm Ido Ji 👋
+```text
+### 👋 Hi, I'm Ido Ji
 
+I'm interested in developing statistical methodologies and applying them to biomedical data. 📊🧠
 
-#### Interests
-- Statistics
-  - Bayesian Statistics
-  - Survival Analysis
-  - Causal Inference
-  - Functional Data Analysis
-  - High-dimensional data
-- Biomedical Data Applications
-  - Neuroimaging
-    - Psychiatry, Alzheimer's Disease
-  - SNP
+### 🔬 Research Interests
 
+**📈 Statistics**
+- 🧮 High-Dimensional Data Analysis
+- 🔗 Causal Inference
+- 📉 Functional Data Analysis
+- ⏳ Survival Analysis
+- 🎯 Bayesian Statistics
 
-## 🛠 Personal Productivity Tools
+**🧬 Biomedical Applications**
+- 🧠 Neuroimaging
+  - 🧩 Psychiatry
+  - 🧠 Alzheimer's Disease
+- 🧬 Statistical Genetics / SNP Data
 
-I build and use several tools to improve my productivity, research workflow, and personal knowledge management.
+### 🛠️ Personal Productivity Tools
 
-* **Task & Schedule Manager**
-  A personal app for managing tasks, schedules, and daily planning.
-  [Repository →]([REPO_URL](https://github.com/IDOJI/slate))
+I build and use tools to improve my research workflow, productivity, and personal knowledge management. ⚙️📚
 
-* **Academic Paper Manager**
-  A research workflow tool that tracks new papers from researchers and topics I follow, and automatically organizes them into Zotero and Obsidian for efficient reading and note-taking.
-  [Repository →](REPO_URL)
+#### ✅ [Slate](https://github.com/IDOJI/slate)
+Task and schedule management for daily planning and personal productivity.
 
-* **Backup Manager**
-  A tool for organizing and automating backups of my databases and personal data across external drives and cloud storage.
-  [Repository →](REPO_URL)
+#### 📄 Academic Paper Manager
+Tracks new papers from researchers and topics I follow, and integrates them with Zotero and Obsidian for efficient reading, archiving, and note-taking.
 
-* **Obsidian Tools**
-  A collection of utilities and automations for managing my Obsidian vaults, including backups, maintenance, and repetitive knowledge-management tasks.
-  [Repository →](REPO_URL)
+[🔗 Repository →](REPO_URL)
 
+#### 💾 Backup Manager
+Automates and organizes backups of databases and personal data across external drives and cloud storage.
 
+[🔗 Repository →](REPO_URL)
+
+#### 🗂️ Obsidian Tools
+Utilities and automations for managing my Obsidian vaults, including backups, maintenance, and repetitive knowledge-management tasks.
+
+[🔗 Repository →](REPO_URL)
+```
